@@ -8,6 +8,17 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)
 
+## 🔍 You Can Find Me at
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/tri-susilo/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<!--&nbsp; <a href="mailto:trisusilodev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>-->
+&nbsp; <a href="https://drive.google.com/file/d/1JGNPPiz_2qHmh2GICgJvKz5ZtPkqIjPK/view?usp=share_link" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/document.png"  width="50" /></a>
+</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tri-susilo.tri-susilo&left_text=Visitor"  />
+</div>
+
+
 
 
 
