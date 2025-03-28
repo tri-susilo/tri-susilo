@@ -14,10 +14,12 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 &nbsp; <a href="mailto:trisusilodev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 <!--&nbsp; <a href="https://drive.google.com/file/d/1JGNPPiz_2qHmh2GICgJvKz5ZtPkqIjPK/view?usp=share_link" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/document.png"  width="50" /></a>-->
 </p>
-<div align="center">
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
+</div>
+<div align="right">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 </div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tri-susilo.tri-susilo&left_text=Visitor"  />
 </div>
@@ -31,6 +33,7 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 **tri-susilo/tri-susilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
