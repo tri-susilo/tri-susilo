@@ -2,9 +2,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
 <p align="justify">
-  ✨ DevOps Engineer | Cloud Explorer | Automation Enthusiast
-   I write YAML spells, summon containers, and conjure up resilient infrastructures. 🧙‍♂️ Whether it's CI/CD pipelines, cloud automation, or high availability, I thrive on making systems scalable, secure, and efficient. 🚀 If it can be scripted, containerized, or optimized, 
-   I’m on it! Let’s build magic together! 🔥☁️
+   A DevOps Engineer passionate about automation, cloud infrastructure, and making deployments smoother. I write YAML spells, summon containers,and craft fault-tolerant infrastructures.. 🧙‍♂️ DevOps is my craft—where code meets automation, and uptime is king. Let’s build some magic together! 🔥
 </p>
 
 
