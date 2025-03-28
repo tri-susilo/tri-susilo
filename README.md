@@ -17,7 +17,7 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
 </div>
-<div align="right">
+<div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 </div>
 <div align="center">
