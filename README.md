@@ -1,4 +1,6 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
+<h3>
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
+</h3>>
 <p align="justify">
    A DevOps Engineer passionate about automation, cloud infrastructure, and making deployments smoother. I write YAML spells, summon containers,and craft fault-tolerant infrastructures.. 🧙‍♂️ DevOps is my craft—where code meets automation, and uptime is king. Let’s build some magic together! 🔥
 </p>
