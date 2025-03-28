@@ -1,5 +1,4 @@
-<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
-
+<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
 <p align="justify">
    A DevOps Engineer passionate about automation, cloud infrastructure, and making deployments smoother. I write YAML spells, summon containers,and craft fault-tolerant infrastructures.. 🧙‍♂️ DevOps is my craft—where code meets automation, and uptime is king. Let’s build some magic together! 🔥
