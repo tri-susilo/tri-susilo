@@ -38,8 +38,8 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tri-susilo.tri-susilo&left_text=Visitor"  />
 </div>
 <div align="center">
-  Generated using <a href="https://profilinator.tri-susilo/" target="_blank">Github Profilinator</a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=tri-susilo&&style=flat-square" align="center" />
+</div>  
 
 
 
