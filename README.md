@@ -5,7 +5,7 @@
 </p>
 
 
-<>![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)-->
 
 🤝🏻 Connect with Me
 <p align="center">
