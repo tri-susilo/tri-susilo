@@ -7,6 +7,17 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"> | 
 </p>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <h3>Column 1</h3>
+    Content for the first column.
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <h3>Column 2</h3>
+    Content for the second column.
+  </div>
+</div>
+
 
 
 
