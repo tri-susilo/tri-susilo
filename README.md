@@ -1,8 +1,12 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
+✨ DevOps Engineer | Cloud Explorer | Automation Enthusiast
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
-  <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
+  ✨ DevOps Engineer | Cloud Explorer | Automation Enthusiast
+ I write YAML spells, summon containers, and conjure up resilient infrastructures. 🧙‍♂️ Whether it's CI/CD pipelines, cloud automation, or high availability, I thrive on making systems scalable, secure, and efficient. 🚀 If it can be scripted, containerized, or optimized, I’m on it! Let’s build magic together! 🔥☁️
+</p>
+<p align="justify">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
 </p>
 
 
