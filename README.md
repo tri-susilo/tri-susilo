@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Tri Here
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"> | 
+  <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
 </p>
 
 
