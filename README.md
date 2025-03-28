@@ -20,23 +20,6 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://solr.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_solr-icon.svg" alt="Solr" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -46,6 +29,7 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <!--&nbsp; <a href="https://drive.google.com/file/d/1JGNPPiz_2qHmh2GICgJvKz5ZtPkqIjPK/view?usp=share_link" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/document.png"  width="50" /></a>-->
 </p>
 
+## Github Stats  
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 </div>
