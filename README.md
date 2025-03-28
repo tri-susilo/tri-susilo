@@ -19,7 +19,7 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tri-susilo.tri-susilo&left_text=Visitor"  />
 </div>
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=true)<br/>
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)-->
 
