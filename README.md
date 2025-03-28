@@ -1,4 +1,5 @@
 <img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hey there! I'm Tri!
 <p align="justify">
   ✨ DevOps Engineer | Cloud Explorer | Automation Enthusiast
