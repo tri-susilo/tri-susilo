@@ -1,9 +1,10 @@
-## Hi there 👋 Tri Here
+## 👋 Hey there! I'm Tri!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak"> 
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)
 
 
 
