@@ -37,24 +37,12 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tri-susilo.tri-susilo&left_text=Visitor"  />
 </div>
+<div align="center">
+  Generated using <a href="https://profilinator.tri-susilo/" target="_blank">Github Profilinator</a>
+</div>
 
 
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{tri-susilo}/count.svg)-->
 
-<!--
-![](https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=true)<br/>
-**tri-susilo/tri-susilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
-Here are some ideas to get you started:
-![](https://github-readme-stats.vercel.app/api?username=tri-susilo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
