@@ -10,7 +10,7 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <div align="center"> 
 <table>
 <tr>
-<td valign="center" width="33%">
+<td align="center" width="33%">
 
 ### Program Language
 <div align="center">   
