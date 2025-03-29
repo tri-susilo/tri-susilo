@@ -5,10 +5,13 @@ Hey there! I'm Tri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 A DevOps Engineer passionate about automation, cloud infrastructure, and making deployments smoother. I write YAML spells, summon containers,and craft fault-tolerant infrastructures.. 🧙‍♂️ DevOps is my craft—where code meets automation, and uptime is king. Let’s build some magic together! 🔥
 </p>
 
+<div align="center">
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Program Language  
 <div align="center">  
@@ -17,9 +20,8 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%">
 
 ### Cloud  
 <div align="center">  
@@ -27,9 +29,8 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
@@ -42,9 +43,14 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 
-<h3> 🤝🏻 Connect with Me </h3>
+</div>
+
+
+## Connect with Me
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/tri-susilo/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:trisusilodev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
