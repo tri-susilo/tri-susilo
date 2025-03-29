@@ -56,6 +56,8 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
   <img src="https://nirzak-streak-stats.vercel.app/?user=tri-susilo&theme=dracula&hide_border=false" alt="GitHub Streak">
 </div>
 <br/>  
+![tri-susilo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=vue-dark&hide_border=true)
+<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tri-susilo&&style=flat-square" align="center" />
 </div>  
