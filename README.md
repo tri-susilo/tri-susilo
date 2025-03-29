@@ -5,8 +5,9 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 </p>
 
 
-## My Skill Set 
+<h3> My Skill Set </h3>
 <div align="center"> 
+  <h4> Github Stats </h4>
   <table>
     <tr>
       <td align="center" width="33%">
@@ -38,14 +39,14 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and making 
 </div>
 
 
-## Connect with Me
+<h3> Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/tri-susilo/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:trisusilodev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 <!--&nbsp; <a href="https://drive.google.com/file/d/1JGNPPiz_2qHmh2GICgJvKz5ZtPkqIjPK/view?usp=share_link" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/document.png"  width="50" /></a>-->
 </p>
 
-<h2> Github Stats </h2>
+<h3> Github Stats </h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tri-susilo&theme=dracula&hide_border=true" alt="GitHub Streak">
 </div>
